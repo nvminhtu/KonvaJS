@@ -1,39 +1,50 @@
-# PHASER - TUTORIAL LIST
+# KONVA - TUTORIAL LIST
 
-Phaser: The fun, fast and free HTML5 Game Framework. ... Phaser source code get its first outing in a TV show featuring a monster burger.
+Konva.js - 2d html5 canvas library for desktop and mobile applications.
 
 ### Featured of Phaser
-* WEBGL & CANVAS
-* PRELOADER
-* PHYSICS
-* SPRITES
-* GROUPS
-* ANIMATION
-* PARTICLES
-* CAMERA
-* mobile phone
-* INPUT
-* SOUND
-* TILEMAPS
-* DEVICE SCALING
+* Built-in in support for HDPI devices with pixel ratio optimizations for sharp text and shapes
+* Object Oriented API
+* Node nesting and event bubbling
+* High performance event detection via color map hashing
+* Layering support
+* Node caching to improve draw performance
+* Nodes can be converted into data URLs, image data, or image objects
+* Animation support
+* Tween support
+* Drag and drop with configurable constraints and bounds
+* Filters
+* Ready to use shapes including rectangles, circles, images, text, lines, polygons, SVG paths, and more
+* Custom shapes
+* Event driven architecture which enables developers to subscribe to attr change events, layer draw events, and more
+* Serialization & de-serialization
+* Selector support e.g. stage.get('#foo') and layer.get('.bar');
+* Desktop and mobile events
+* AMD support
+* Custom hit regions and more...
 
 # Step by Step Learning
 
-### Basic
-* [Load an Image] - Load image to your screen (avatar or background)
-* Click on an Image
-* Move an Image
+### Official Tutorial
+* Shapes
+* Drag and Drop
+* Clipping
+* GROUPS AND LAYERS
+* FILTER
+* TWEENS
+* ANIMATIONS
+* SELECTORS
+* DATA & SERIALIZATION
+* PERFORMANCE
 
-### Example Game & Source code
+### Tips & Tricks
 
-* [Example Phaser Game] - Full collection with hundred apps.
+* [Konva Responsive] - How to make canvas responsive in all device and browser.
 
 ### Editors
 
-* [Phaser Sandbox] - You also don't need install anything, you can code Phaser in a sandbox (using your browser).
 * [Sublime Text] - Light weight editor and easy to code and hightlight your work.
 * [Atom] - Powerful code editor now with thoundsand of plugins.
-* [Phaser Editor] - now only for Windows and Linux
 
 ### Todos
 
@@ -41,11 +52,6 @@ Phaser: The fun, fast and free HTML5 Game Framework. ... Phaser source code get 
  - Matching Pair Game.
  - Guess Image.
  - True False Game.
-
-License
----->.
-
-MIT
 
 
 **Free Software, Hell Yeah!**
@@ -59,4 +65,4 @@ MIT
    [Atom]: <https://atom.io/>
    [Phaser Editor]: <http://phasereditor.boniatillo.com/>
 
-   [Load an Image]: <https://phaser.io/examples/v2/basics/01-load-an-image>
+   [Konva Responsive]: <http://codepen.io/microcipcip/pen/WwYyBd>
