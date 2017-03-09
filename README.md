@@ -2,26 +2,24 @@
 
 Konva.js - 2d html5 canvas library for desktop and mobile applications.
 
-### Featured of Phaser
-* Built-in in support for HDPI devices with pixel ratio optimizations for sharp text and shapes
-* Object Oriented API
-* Node nesting and event bubbling
-* High performance event detection via color map hashing
-* Layering support
-* Node caching to improve draw performance
-* Nodes can be converted into data URLs, image data, or image objects
-* Animation support
-* Tween support
-* Drag and drop with configurable constraints and bounds
-* Filters
-* Ready to use shapes including rectangles, circles, images, text, lines, polygons, SVG paths, and more
-* Custom shapes
-* Event driven architecture which enables developers to subscribe to attr change events, layer draw events, and more
-* Serialization & de-serialization
-* Selector support e.g. stage.get('#foo') and layer.get('.bar');
-* Desktop and mobile events
-* AMD support
-* Custom hit regions and more...
+### Featured of KonvaJS
+* KonvaJS Lesson 1: Introduction to Konva.js
+* KonvaJS Lesson 2: Creating Shapes
+* KonvaJS Lesson 3: Adding Styles
+* KonvaJS Lesson 4: Events
+* KonvaJS Lesson 5: Dragging Elements
+* KonvaJS Lesson 6: Blur Filter
+* KonvaJS Lesson 7: Brighten & Enhance Filters
+* KonvaJS Lesson 8: HSL Filter – Hue, Saturation, Luminance
+* KonvaJS Lesson 9: RGB and RGBA Filters
+* KonvaJS Lesson 10: Pixelate Filter
+* KonvaJS Lesson 11: Noise and Posterize Filters
+* KonvaJS Lesson 12: Grayscale and Sepia Filters
+* KonvaJS Lesson 13: Rectangle & Ellipse
+* KonvaJS Lesson 14: Wedge
+* KonvaJS Lesson 15: Line Element & Dashed Lines
+* KonvaJS Lesson 16: Line Polygon & Spline
+* KonvaJS Lesson 17: Regular Polygons & LineJoin Property
 
 # Step by Step Learning
 
