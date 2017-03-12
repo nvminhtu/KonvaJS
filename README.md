@@ -39,6 +39,9 @@ Konva.js - 2d html5 canvas library for desktop and mobile applications.
 
 * [Konva Responsive] - How to make canvas responsive in all device and browser.
 
+### Tutorial
+* [Konva Usage] - code and features of Konva JS
+
 ### Editors
 
 * [Sublime Text] - Light weight editor and easy to code and hightlight your work.
@@ -64,3 +67,4 @@ Konva.js - 2d html5 canvas library for desktop and mobile applications.
    [Phaser Editor]: <http://phasereditor.boniatillo.com/>
 
    [Konva Responsive]: <http://codepen.io/microcipcip/pen/WwYyBd>
+   [Konva Usage]: <http://developers-club.com/posts/250897/>
